@@ -17,6 +17,7 @@
 🚀 Web Frontend: 
 - Languages: TypeScript, Javascript, CSS, Less, SCSS, HTML5
 - Frameworks: ReactJS, VueJS, Jquery, TailWindCSS, TailWindUI
+- Design: UI / UX Design, Photoshop, Adobe XD, Figma, Sketch, InVision 
 
 🚀 Backend:
 - PHP: Codeigniter, Laravel
@@ -26,6 +27,12 @@
 
 🚀 Databases:
 - MySQL, MongoDB, Redis, SQLite
+
+🚀 Others:
+- Firebase, Google Map, Push Notification, In-App Purchase
+- WebSocket, SocketIO
+- OpenAI
+- SEO & Digital Marketing
 
 ## Achievements
 <p align="center">
